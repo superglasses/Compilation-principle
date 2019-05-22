@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+e:\学习\编译原理\上机\第一次\q1\consoleapplication1\consoleapplication1.cpp(7): error C2440: “初始化”: 无法从“const char [4]”转换为“char *”
+  e:\学习\编译原理\上机\第一次\q1\consoleapplication1\consoleapplication1.cpp(7): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+e:\学习\编译原理\上机\第一次\q1\consoleapplication1\consoleapplication1.cpp(7): error C2440: “初始化”: 无法从“const char [3]”转换为“char *”
+  e:\学习\编译原理\上机\第一次\q1\consoleapplication1\consoleapplication1.cpp(7): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+e:\学习\编译原理\上机\第一次\q1\consoleapplication1\consoleapplication1.cpp(7): error C2440: “初始化”: 无法从“const char [5]”转换为“char *”
+  e:\学习\编译原理\上机\第一次\q1\consoleapplication1\consoleapplication1.cpp(7): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+e:\学习\编译原理\上机\第一次\q1\consoleapplication1\consoleapplication1.cpp(7): error C2440: “初始化”: 无法从“const char [6]”转换为“char *”
+  e:\学习\编译原理\上机\第一次\q1\consoleapplication1\consoleapplication1.cpp(7): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
