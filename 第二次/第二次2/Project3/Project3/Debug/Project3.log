@@ -1,0 +1,6 @@
+﻿  lex.yy.c
+lex.yy.c(1398): warning C4013: “exit”未定义；假设外部返回 int
+lex.yy.c(1445): warning C4013: “malloc”未定义；假设外部返回 int
+lex.yy.c(1463): warning C4013: “realloc”未定义；假设外部返回 int
+lex.yy.c(1473): warning C4013: “free”未定义；假设外部返回 int
+  Project3.vcxproj -> E:\学习\编译原理\上机\第二次\第二次2\Project3\Debug\Project3.exe
